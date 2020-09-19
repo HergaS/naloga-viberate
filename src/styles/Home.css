@@ -1,0 +1,17 @@
+
+.Home {
+    margin-top: 2%;
+}
+.artist-data {
+    background-color: white;
+    padding: 3%;
+}
+.artist-img {
+    width: 100%;
+}
+.border-line {
+    border: 1px solid black;
+}
+.icons {
+    width: 6%;
+}
